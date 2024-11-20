@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @fiddyhamma a product designer passionate about opensource and poetry. 
-- I'm currently learning JavaScript and React just after drilling Html, Css 💪.
-- I love reading books and enjoy the serenity of nature.
-- 👀 I’m interested in medical sciences, design, code, opensource and poetry
-- 🌱 I’m currently learning to contribute to opensource, React and illustration design
-- 💞️ I’m looking to collaborate on design projects and cook more codes like a chef 🤙👩‍🍳
+- 😊 I'm relaxing at the moment.
+- 📚 I love reading books and enjoy the serenity of nature.
+- 👀 I’m interested in medical sciences, design, code, opensource and poetry.
+- 💞️ I’m looking to collaborate on design projects and Open science.
 - 📫 How to reach me peacedaniel612@gmail.com
 
 <!---
